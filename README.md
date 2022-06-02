@@ -1,4 +1,4 @@
-# Lattice Homology
+# Lattice Homology of Seifert Homology Spheres
 
 This repository contains some code for computing the lattice homology and related homology cobordism invariants of Seifert homology spheres.
 In particular, it also supports computing the $d$-invariant and maximal monotone subroot of the lattice homology. 
