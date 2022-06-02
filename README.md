@@ -12,7 +12,7 @@ The main files:
 * [`tau_extrema_sequence.py`](https://github.com/willwin4sure/lattice-homology/blob/main/tau_extrema_sequence.py) lays the foundation with code that computes some necessary constants as well as the $\Delta$-function and local extrema of the $\tau$-sequence.
 * [`find_d_invariant.py`](https://github.com/willwin4sure/lattice-homology/blob/main/find_d_invariant.py) includes code for computing the $d$-invariant.
 * [`graded_roots.py`](https://github.com/willwin4sure/lattice-homology/blob/main/graded_roots.py) includes code for computing and drawing the lattice homology as well as maximal monotone subroot. I will soon implement a faster method of computing the maximal monotone subroot.
-* [`generate_grid.py](https://github.com/willwin4sure/lattice-homology/blob/main/generate_grid.py) includes code for automatically generating the pictorial grid representation into an Excel spreadsheet.
+* [`generate_grid.py`](https://github.com/willwin4sure/lattice-homology/blob/main/generate_grid.py) includes code for automatically generating the pictorial grid representation into an Excel spreadsheet.
 
 ## About
 
